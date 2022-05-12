@@ -2,7 +2,7 @@
 
 ## manager
 
-### 최초작업 시
+### 최초작업
 
 - git init
 - git add .
@@ -14,7 +14,7 @@
 - Github에 접속하면 화면에 노란박스로 푸시된거 확인하라고 한다.
 - compare & pull request 버튼을 클릭해서 내용확인하고 머지 해준다.
 
-### 두번째 작업할때
+### 두번째 작업
 
 - git add .
 - git commit -m "second commit"
