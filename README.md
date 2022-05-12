@@ -33,7 +33,7 @@
 - git commit -m 'commit1 emp1'
 - git checkout -b emp1
 - git branch
-- git push origin emp1
+- git push origin emp1 //푸시하면 내깃헙으로 가서 깃관리자에게 main 으로의 머지 요청을 해야 한다.
 
 ### 두번째 작업
 
@@ -42,4 +42,4 @@
 - git status
 - git commit -m 'commit2 emp1'
 - git branch //현재 내 브랜치 확인한다. 머지하면 브랜치 삭제되서 생성해야 되기도 한다.
-- git push origin emp1
+- git push origin emp1 //내킷헙>Pull Request>New Pull Request> compare:내브랜치명 선택>Merge Request
