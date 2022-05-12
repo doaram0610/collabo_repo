@@ -21,6 +21,7 @@
 - git pull origin main
 - git push origin main
 - 이렇게 하면 되겠지?
+- 그래 무조건 pull 하고 나서 작업 하자
 
 ## emp1
 
