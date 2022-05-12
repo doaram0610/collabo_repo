@@ -20,6 +20,7 @@
 - git commit -m "second commit"
 - git pull origin main
 - git push origin main
+- 이렇게 하면 되겠지?
 
 ## emp1
 
