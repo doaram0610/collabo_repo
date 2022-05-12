@@ -20,6 +20,10 @@
 - git pull origin main //내가 작업한거랑 자동 병합된다.
 - git push origin main //collabo 설정하면 main 은 push 를 막는다.
 
+### 관리자 머지요청 승인하기
+
+- 내용확인(Code Review) 하고 나서 코멘트 입력하고 merge
+
 ## emp1
 
 - 사원1은 clone 을 처음으로 수행
